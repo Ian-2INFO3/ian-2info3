@@ -1,5 +1,5 @@
 ### Salve 👋
-- 🌱 Atualmente aprendendo HTML,CSS,JS
+- 🌱 Atualmente aprendendo VueJS e MySql
 
 <div>
   <a href="https://github.com/ian-2info3">
